@@ -10,9 +10,9 @@
 # 📊 GitHub Stats:
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smanindokhan&show_icons=true&theme=tokyonight&locale=en&layout=compactinclude_all_commits=true&count_private=true&layout=compact" alt="smanindokhan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smanindokhan&show_icons=true&theme=tokyonight&locale=en&layout=compactinclude_all_commits=true&count_private=true&layout=compact&hide_border=true" alt="smanindokhan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smanindokhan&show_icons=true&theme=tokyonight&locale=en&include_all_commits=true&count_private=true&layout=compact" alt="smanindokhan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smanindokhan&show_icons=true&theme=tokyonight&locale=en&include_all_commits=true&count_private=true&layout=compact&hide_border=true" alt="smanindokhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smanindokhan&theme=tokyonight&hide_border=true" alt="smanindokhan" /></p>
 
