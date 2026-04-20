@@ -6,7 +6,7 @@ Focused on bridging **data, systems, and business decisions**.
 ---
 
 ## 🔗 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sm-anindo-khan/)  
+[![LinkedIn](https://img.shields.io/badge/Anindo%20Khan-LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/sm-anindo-khan/)
 
 ---
 
@@ -38,27 +38,27 @@ Focused on bridging **data, systems, and business decisions**.
 ## 🛠️ Tech Stack
 
 ### **Data & Analytics**
-![SQL](https://img.shields.io/badge/SQL-%2300000f.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Google Analytics](https://img.shields.io/badge/GA4-%23E37400.svg?style=flat-square&logo=google-analytics&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=ffdd54)
+![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=plastic&logo=google-analytics&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black)
 
 ### **Data Engineering & Automation**
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-%23FF694B.svg?style=flat-square&logo=dbt&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-%23017CEE.svg?style=flat-square&logo=apache-airflow&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-%23EF6C00.svg?style=flat-square&logo=n8n&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=plastic&logo=google-cloud&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=plastic&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=plastic&logo=apache-airflow&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=plastic&logo=n8n&logoColor=white)
+![Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=plastic&logo=google-apps-script&logoColor=white)
 
 ### **BI & Visualization**
-![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat-square&logo=tableau&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-%234285F4.svg?style=flat-square&logo=looker&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Metabase](https://img.shields.io/badge/Metabase-%23509EE3.svg?style=flat-square&logo=metabase&logoColor=white)
-![Redash](https://img.shields.io/badge/Redash-%23FF7964.svg?style=flat-square&logo=redash&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=plastic&logo=looker&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=plastic&logo=metabase&logoColor=white)
+![Redash](https://img.shields.io/badge/Redash-FF7964?style=plastic&logo=redash&logoColor=white)
 
 ### **Spreadsheets & Analysis**
-![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?style=flat-square&logo=google-sheets&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=plastic&logo=google-sheets&logoColor=white)
 
 ---
 
