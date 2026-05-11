@@ -3,12 +3,15 @@
 Data Analyst working across **telco, food delivery, and ride-sharing**, focused on solving business problems through **pricing, growth analytics, and data systems**.  
 Focused on bridging **data, systems, and business decisions**.
 
+**Portfolio:** [anindo-khan.vercel.app](https://anindo-khan.vercel.app)
+
 ---
 
 ## 🔗 Connect
 [![LinkedIn](https://img.shields.io/badge/Anindo%20Khan-LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/sm-anindo-khan/)
 
 ---
+
 
 ## 🚀 What I Do
 
