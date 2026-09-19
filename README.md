@@ -70,4 +70,28 @@ I focus on:
 ---
 
 ## 📊 GitHub Stats
-<div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=smanindokhan&theme=tokyonight" height="180"/> <img width="20"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=smanindokhan&theme=tokyonight" height="180"/> </div>
+
+<div align="center">
+  <table border="0" style="border-collapse: collapse; border: none;">
+    <tr valign="middle" style="border: none;">
+      <td width="55%" align="center" style="border: none; padding: 0 8px;">
+        <a href="https://github.com/smanindokhan">
+          <img 
+            src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=smanindokhan&theme=tokyonight&headerStyle=mac&typingSpeed=29&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cexit" 
+            width="100%" 
+            alt="GitHub Stats Terminal" 
+          />
+        </a>
+      </td>
+      <td width="45%" align="center" style="border: none; padding: 0 8px;">
+        <a href="https://git.io/streak-stats">
+          <img 
+            src="https://streak-stats.demolab.com?user=smanindokhan&theme=tokyonight&hide_border=true&border_radius=10.5&card_width=500&card_height=250" 
+            width="100%" 
+            alt="GitHub Streak" 
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
